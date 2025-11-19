@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/AccountNumber.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/valueobjects/Money.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/entities/Account.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/entities/SavingsAccount.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/entities/CheckingAccount.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/entities/AccountType.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/events/DomainEvent.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/events/AccountOpenedEvent.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/events/FundsDepositedEvent.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/application/commands/CreateAccountCommand.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/application/commands/TransferFundsCommand.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/application/services/AccountService.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/application/services/DefaultAccountService.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/infrastructure/persistence/AccountRepository.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/infrastructure/persistence/InMemoryAccountRepository.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/infrastructure/services/SequenceGenerator.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/presentation/console/ConsoleInputHandler.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/presentation/console/ConsoleMenu.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/presentation/console/BankConsoleApp.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/events/FundsWithdrawnEvent.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/events/FundsTransferredEvent.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/results/DepositSuccess.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/results/DepositFailed.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/results/WithdrawalSuccess.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/results/WithdrawalFailed.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/results/InsufficientFunds.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/results/ViolatesMinimumBalance.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/results/DepositResult.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/results/WithdrawalResult.java</file>
+            <file>file:/C:/Users/Prince%20Arz/BEANSPROJECT/BankFinal/src/bank/domain/results/OperationResult.java</file>
+        </group>
+    </open-files>
+</project-private>
